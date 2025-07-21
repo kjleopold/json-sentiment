@@ -48,4 +48,4 @@ This exercise illustrates how to access web-hosted APIs, get back a response in 
 * Verify the notebook appears correctly in GitHub.
 
 ### Export to HTML and Finalize Repo
-* `!jupyter nbconvert --to html pyplot.ipynb`
+* `!jupyter nbconvert --to html requests-json-nlp.ipynb`
